@@ -1,6 +1,4 @@
 console.log("Server running...")
-console.log(document)
-console.dir(document)
 const products=[
     { 
       id:"p1",
